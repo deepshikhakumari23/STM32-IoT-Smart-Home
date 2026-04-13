@@ -46,5 +46,3 @@ This project was developed as part of an **Embedded Systems** portfolio, demonst
 * Hardware Abstraction Layer (HAL) implementation.
 * IoT system architecture and sensor interfacing.
 
----
-Developed by **Sweety** 🚀
