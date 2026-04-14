@@ -46,3 +46,10 @@ This project was developed as part of an **Embedded Systems** portfolio, demonst
 * Hardware Abstraction Layer (HAL) implementation.
 * IoT system architecture and sensor interfacing.
 
+## 🌟 Advanced Features
+* **Multi-Factor Control:** Keypad entry, IR Remote override, and Sensor automation.
+* **Intelligent Security:** 3-strike lockout policy with a piezoelectric buzzer alarm.
+* **Dynamic Climate Control:** Automatic fan activation based on high-precision DHT22 readings.
+* **Manual Override:** Keypad shortcuts ('A' and 'B') for manual lighting control.
+* **Emergency Shutdown:** Dedicated IR Remote command for instant system lockdown.
+
